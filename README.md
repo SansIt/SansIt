@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm San!</h1>
-<h3 align="center">A undergraduate CS major at UBC</h3>
+<h3 align="center">An undergraduate CS major at UBC</h3>
 
 - 🌱 I’m currently learning **C++**
 
