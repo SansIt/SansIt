@@ -9,8 +9,6 @@
   
 - 📫 You can reach me at **sansit2024@gmail.com**
 
-- 😊 Pronouns: he/him
-
 - ⚡ Fun Fact: **My top 5 movies/shows are each different genres and languages!**
 
 <h3 align="left">Connect with me:</h3>
