@@ -4,10 +4,14 @@
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 You can find my projects at [https://github.com/SansIt?tab=projects](https://github.com/SansIt?tab=projects)
+  
+- 💬 Ask me about **App development, testing, or film!**
+  
+- 📫 You can reach me at **sansit2024@gmail.com**
 
-- 📫 Please contact me at **sansit2024@gmail.com**
+- 😊 Pronouns: he/him
 
-- ⚡ Fun Fact **I love watching films!**
+- ⚡ Fun Fact **My top 5 movies/shows are each different genres and languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
