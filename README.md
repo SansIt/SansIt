@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can find my projects at [https://github.com/SansIt?tab=projects](https://github.com/SansIt?tab=projects)
   
-- 💬 Ask me about **App development, testing, or film!**
+- 💬 Ask me about **UX Design, App development, testing, or film!**
   
 - 📫 You can reach me at **sansit2024@gmail.com**
 
