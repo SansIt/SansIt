@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm San!</h1>
 <h3 align="center">An undergraduate CS major at UBC</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 You can find my projects at [https://github.com/SansIt?tab=projects](https://github.com/SansIt?tab=projects)
   
@@ -9,7 +9,7 @@
   
 - 📫 You can reach me at **sansit2024@gmail.com**
 
-- ⚡ Fun Fact: **My top 5 movies/shows are each different genres and languages!**
+- ⚡ Fun Fact: **My top 5 movies/shows are from different genres and languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
