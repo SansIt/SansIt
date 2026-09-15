@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm San!</h1>
-<h3 align="center">An undergraduate CS major at UBC</h3>
+<h3 align="center">An undergraduate Computer Science + Software Engineering major at UBC</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 You can find my projects at [https://github.com/SansIt?tab=projects](https://github.com/SansIt?tab=projects)
   
-- 💬 Ask me about **UX Design, App development, testing, or film!**
+- 💬 Ask me about **UX Design or Design Engineering**
   
 - 📫 You can reach me at **sansit2024@gmail.com**
 
