@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm San!</h1>
+<h1 align="center">Hey 👋, I'm San!</h1>
 <h3 align="center">An undergraduate CS major at UBC</h3>
 
 - 🌱 I’m currently learning **TypeScript**
@@ -9,7 +9,7 @@
   
 - 📫 You can reach me at **sansit2024@gmail.com**
 
-- ⚡ Fun Fact: **My top 5 movies/shows are from different genres and languages!**
+- ⚡ Fun Fact: **I can speak in 4 languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
